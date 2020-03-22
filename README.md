@@ -6,3 +6,5 @@ This is a simple game created with [Flame](https://github.com/flame-engine/flame
 
 Game can be played at [itch](https://cptblackpixel.itch.io/remo-the-candy-hunter)
 
+Color palette from https://lospec.com/palette-list/midnites-light-pastel
+
